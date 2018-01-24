@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="MessageEncoderDecoder:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="MessageEncoderDecoder-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="MessageEncoderDecoder:war exploded" />
+    </root>
+  </artifact>
+</component>
